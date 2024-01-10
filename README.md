@@ -1,4 +1,6 @@
-<img src="https://github.com/ubinjeon/django_project/assets/156033838/26419a91-8ff1-4437-a53b-3dd43ba5d24f" alt="Markdownify" width="600">
+<h1 align="center">
+  <img src="https://github.com/ubinjeon/django_project/assets/156033838/26419a91-8ff1-4437-a53b-3dd43ba5d24f" alt="Markdownify" width="800">
+</h1>
 <p align ="center">
   <a href="#기획의도">기획의도</a> •
   <a href="#구현방향">구현방향</a> •
