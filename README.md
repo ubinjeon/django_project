@@ -33,7 +33,8 @@
 ## 웹구성
 ```mermaid
 classDiagram
-class `홈 화면`
+class `홈 화면`{
+  홈화면}
 class `어른들이 하는일`
 class `나는 누구일까?`
 class `나도 해보기`
