@@ -43,7 +43,7 @@ class `어른들이 하는일` {
   single_pages}
 class `나는 누구일까?`{
   직업 적성
-  single_pages
+  single_pages}
 class `나도 해보기`{
   직업 체험
   single_pages}
