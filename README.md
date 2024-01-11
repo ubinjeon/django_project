@@ -36,16 +36,25 @@
 ```mermaid
 classDiagram
 class `홈 화면`{
-  홈화면}
-class `어른들이 하는일`
-class `나는 누구일까?`
-class `나도 해보기`
-class `미래직업연구1`
-class `궁금증 해결하기`
-class `직업 체험관`
-class `직업 체험영상`
-class `미래직업연구2`
-class `미래직업연구3`
+  홈화면,single_pages}
+class `어른들이 하는일` {
+  직업 종류,single_pages}
+class `나는 누구일까?`{
+  직업 적성,single_pages
+class `나도 해보기`{
+  직업 체험,single_pages}
+class `미래직업연구1`{
+  글로벌 변화,single_pages}
+class `궁금증 해결하기`{
+  게시판,board}
+class `직업 체험`{
+  오프라인 체험관,single_pages}
+class `직업 체험영상`{
+  온라인 체험영상,single_pages}
+class `미래직업연구2`{
+  미래직업 능력,single_pages}
+class `미래직업연구3`{
+  미래직업 동영상,single_pages}
 `홈 화면`-->`어른들이 하는일`
 `홈 화면`-->`나는 누구일까?`
 `홈 화면`-->`나도 해보기`
